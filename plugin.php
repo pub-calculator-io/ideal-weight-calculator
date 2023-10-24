@@ -10,6 +10,8 @@ License: GPLv2 or later
 Text Domain: ci_ideal_weight_calculator
 */
 
+if (!defined('ABSPATH')) exit;
+
 if (!function_exists('add_shortcode')) return "No direct call for Ideal Weight Calculator by Calculator.iO";
 
 function display_ci_ideal_weight_calculator(){
