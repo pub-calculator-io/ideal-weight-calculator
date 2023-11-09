@@ -13,6 +13,8 @@ Based on many famous equations, this free ideal weight calculator determines an 
 
 Based on many famous equations, this free ideal weight calculator determines an optimal healthy body weight based on age, gender, and height.
 
+[Ideal Weight Calculator Homepage](https://www.calculator.io/ideal-weight-calculator/ "Ideal Weight Calculator Homepage")
+
 __Shortcode__
 
 Use the Ideal Weight Calculator shortcode:
