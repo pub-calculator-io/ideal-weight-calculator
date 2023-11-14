@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Based on many famous equations, this free ideal weight calculator determines an optimal healthy body weight based on age, gender, and height.
 
-== Description ==
-
-Based on many famous equations, this free ideal weight calculator determines an optimal healthy body weight based on age, gender, and height.
-
 [https://www.calculator.io/ideal-weight-calculator/](https://www.calculator.io/ideal-weight-calculator/)
 
-__Ideal Weight Calculator Shortcode__
+== Usage ==
+
+Add the Ideal Weight Calculator shortcode to your page, post or sidebar:
 
 `[ci_ideal_weight_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Ideal Weight Calculator to appear:
 
-1. Upload the /ci_ideal_weight_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Ideal Weight Calculator](https://www.calculator.io/ideal-weight-calculator/ "Ideal Weight Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Ideal Weight Calculator Usage ==
-
-* Add the shortcode `[ci_ideal_weight_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_ideal_weight_calculator(); ?>` to your template where you would like the Ideal Weight Calculator to appear.
+`<?php display_ci_ideal_weight_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Ideal Weight Calculator Input Form.
 2. The Ideal Weight Calculator Calculation Results.
 
-== Libraries used in Ideal Weight Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Ideal Weight Calculator /ci_ideal_weight_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Ideal Weight Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Ideal Weight Calculator
