@@ -1,6 +1,6 @@
 === Ideal Weight Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: ideal weight calculator, calculate ideal weight, weight calculator, determine ideal weight, healthy weight calculator, ideal body weight calculator, find ideal weight, ideal weight for height, weight loss goal calculator, target weight calculator
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
