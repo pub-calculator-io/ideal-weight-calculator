@@ -1,4 +1,4 @@
-# Ideal Weight Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Ideal Weight Calculator Widget for WordPress
 
 Based on many famous equations, this free ideal weight calculator determines an optimal healthy body weight based on age, gender, and height.
 
