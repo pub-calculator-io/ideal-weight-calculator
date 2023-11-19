@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Ideal Weight Calculator by www.calculator.io
+Plugin Name: CI Ideal weight calculator
 Plugin URI: https://www.calculator.io/ideal-weight-calculator/
 Description: Based on many famous equations, this free ideal weight calculator determines an optimal healthy body weight based on age, gender, and height.
 Version: 1.0.0
