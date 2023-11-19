@@ -7,7 +7,7 @@ Based on many famous equations, this free ideal weight calculator determines an 
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/ideal-weight-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /ideal-weight-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Ideal Weight Calculator](https://www.calculator.io/ideal-weight-calculator/ "Ideal Weight Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
