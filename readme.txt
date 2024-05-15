@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Ideal Weight Ca
 == Screenshots ==
 
 1. The Ideal Weight Calculator Input Form.
-2. The Ideal Weight Calculator Calculation Results.
 
 == Installation ==
 
